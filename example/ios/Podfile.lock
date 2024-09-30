@@ -1,0 +1,28 @@
+PODS:
+  - dchs_flutter_compass (1.0.0):
+    - Flutter
+  - Flutter (1.0.0)
+  - permission_handler_apple (9.3.0):
+    - Flutter
+
+DEPENDENCIES:
+  - dchs_flutter_compass (from `.symlinks/plugins/dchs_flutter_compass/ios`)
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+
+EXTERNAL SOURCES:
+  dchs_flutter_compass:
+    :path: ".symlinks/plugins/dchs_flutter_compass/ios"
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+
+SPEC CHECKSUMS:
+  dchs_flutter_compass: a6a6e8bcf0565a2f596ad987ed3a6d16fb282cd7
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+
+PODFILE CHECKSUM: 718db58dcf9c193aa55b75cf0a7f49ccc25b5590
+
+COCOAPODS: 1.15.2
